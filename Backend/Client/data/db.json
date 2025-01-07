@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "title": "Room for Change: Interior Design that Adapts with Style",
+      "shortDescription": "Interior design trends are evolving towards sustainability, biophilia, and flexibility. Designers are using natural materials and soft colors to create calming and inspiring spaces that enhance well-being.",
+      "author": "Mike",
+      "date": "Dec 10 2024",
+      "id": "1"
+    },
+    {
+      "title": "Room for Change: Interior Design that Adapts with Style",
+      "shortDescription": "Interior design trends are evolving towards sustainability, biophilia, and flexibility. Designers are using natural materials and soft colors to create calming and inspiring spaces that enhance well-being.",
+      "author": "Milkyas",
+      "date": "Dec 15 2024",
+      "id": "2"
+    },
+    {
+      "id": "94f0",
+      "title": "asdf",
+      "description": "asdf",
+      "author": "asdf",
+      "date": "2025-01-01"
+    },
+    {
+      "id": "3491",
+      "title": "wrthsfg",
+      "description": "sdfgsdf",
+      "author": "gsdfgfgh",
+      "date": "2024-12-17"
+    }
+  ]
+}
